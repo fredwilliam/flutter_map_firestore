@@ -10,8 +10,8 @@ class FirestoreMarkerPlugin extends MapPlugin {
 
   @override
   Widget createLayer(LayerOptions opts, MapState map) {
-    FirebaseMarkerLayerOptions fireOption =
-    opts as FirebaseMarkerLayerOptions;
+    FirestoreMarkerLayerOptions fireOption =
+    opts as FirestoreMarkerLayerOptions;
     return new StreamBuilder<QuerySnapshot>(
         stream: fireOption._reference.snapshots(),
         builder: (context, snapshot) {
@@ -39,13 +39,13 @@ class FirestoreMarkerPlugin extends MapPlugin {
 
   @override
   bool supportsLayer(LayerOptions options) {
-    return options is FirebaseMarkerLayerOptions;
+    return options is FirestoreMarkerLayerOptions;
   }
 }
 
-class FirebaseMarkerLayerOptions extends LayerOptions {
+class FirestoreMarkerLayerOptions extends LayerOptions {
   final CollectionReference _reference;
   final MarkerCreator _creator;
 
-  FirebaseMarkerLayerOptions(this._reference, this._creator);
+  FirestoreMarkerLayerOptions(this._reference, this._creator);
 }

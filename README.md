@@ -11,7 +11,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong/latlong.dart';
-import 'package:flutter_map_firestore/FirebaseMarkerPlugin.dart';
+import 'package:flutter_map_firestore/flutter_map_firestore.dart';
 
 class Map extends StatelessWidget {
   @override
@@ -19,13 +19,12 @@ class Map extends StatelessWidget {
     return new FlutterMap(
       options: new MapOptions(
         plugins: [FirestoreMarkerPlugin()],
-        interactive: true,
       ),
       layers: [
         new TileLayerOptions(
             urlTemplate: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
             subdomains: ['a', 'b', 'c']),
-        new FirebaseMarkerLayerOptions(Firestore.instance.collection('markers'), //connect own firestore collection
+        new FirestoreMarkerLayerOptions(Firestore.instance.collection('markers'), //connect own firestore collection
             (document) {
           GeoPoint point = document["location"]; //use for example Firestore GeoPoint
           return Marker(
