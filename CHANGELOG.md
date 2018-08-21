@@ -1,4 +1,4 @@
-## [0.0.1] - Class renaming Release.
+## [0.0.2] - Class renaming Release.
 
 * Rename Firebase to Firestore
 

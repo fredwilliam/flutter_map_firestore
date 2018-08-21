@@ -8,6 +8,8 @@ Add flutter_map_firestore to your pubspec:
 dependencies:
   flutter_map_firestore: ^0.0.2
 
+
+
 Usage:
 
 ```dart
