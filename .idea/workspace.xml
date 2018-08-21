@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ada3c51-1721-4049-a066-ca806d5f0f76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" afterPath="$PROJECT_DIR$/android/local.properties" />
-      <change beforePath="$PROJECT_DIR$/lib/flutter_map_firestore.dart" afterPath="$PROJECT_DIR$/lib/flutter_map_firestore.dart" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -50,17 +44,36 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
                 <folding>
-                  <marker date="1534852969274" expanded="true" signature="146:425" ph="..." />
-                  <marker date="1534852969274" expanded="true" signature="461:1310" ph="{...}" />
-                  <marker date="1534852969274" expanded="true" signature="512:1308" ph="{...}" />
-                  <marker date="1534852969274" expanded="true" signature="539:1303" ph="(...)" />
-                  <marker date="1534852969274" expanded="true" signature="570:623" ph="(...)" />
-                  <marker date="1534852969274" expanded="true" signature="669:790" ph="(...)" />
-                  <marker date="1534852969274" expanded="true" signature="831:1287" ph="(...)" />
-                  <marker date="1534852969274" expanded="true" signature="1207:1274" ph="(...)" />
+                  <marker date="1534853145291" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+                  <marker date="1534853145291" expanded="true" signature="213:219" ph="^0.0.2" />
+                  <marker date="1534853145291" expanded="true" signature="244:523" ph="..." />
+                  <marker date="1534853145291" expanded="true" signature="559:1408" ph="{...}" />
+                  <marker date="1534853145291" expanded="true" signature="610:1406" ph="{...}" />
+                  <marker date="1534853145291" expanded="true" signature="637:1401" ph="(...)" />
+                  <marker date="1534853145291" expanded="true" signature="668:721" ph="(...)" />
+                  <marker date="1534853145291" expanded="true" signature="678:713" ph="plugins: ..." />
+                  <marker date="1534853145291" expanded="true" signature="688:711" ph="Firestore…erPlugin()" />
+                  <marker date="1534853145291" expanded="true" signature="729:1394" ph="layers: [7 items]" />
+                  <marker date="1534853145291" expanded="true" signature="767:888" ph="(...)" />
+                  <marker date="1534853145291" expanded="true" signature="794:846" ph="https://{…x}/{y}.png" />
+                  <marker date="1534853145291" expanded="true" signature="860:888" ph="subdomains: ..." />
+                  <marker date="1534853145291" expanded="true" signature="873:876" ph="a" />
+                  <marker date="1534853145291" expanded="true" signature="878:881" ph="b" />
+                  <marker date="1534853145291" expanded="true" signature="883:886" ph="c" />
+                  <marker date="1534853145291" expanded="true" signature="929:1385" ph="(...)" />
+                  <marker date="1534853145291" expanded="true" signature="972:1029" ph="//connect…(document)" />
+                  <marker date="1534853145291" expanded="true" signature="1042:1067" ph="GeoPoint …= document" />
+                  <marker date="1534853145291" expanded="true" signature="1068:1078" ph="location" />
+                  <marker date="1534853145291" expanded="true" signature="1079:1142" ph="; //use f…rn Marker(" />
+                  <marker date="1534853145291" expanded="true" signature="1164:1168" ph="50.0" />
+                  <marker date="1534853145291" expanded="true" signature="1192:1196" ph="50.0" />
+                  <marker date="1534853145291" expanded="true" signature="1219:1240" ph="LatLng(po…t.latitude" />
+                  <marker date="1534853145291" expanded="true" signature="1242:1258" ph="point.longitude)" />
+                  <marker date="1534853145291" expanded="true" signature="1305:1372" ph="(...)" />
+                  <marker date="1534853145291" expanded="true" signature="1334:1351" ph="new FlutterLogo()" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -354,6 +367,14 @@
       <option name="presentableId" value="Default" />
       <updated>1534850593293</updated>
     </task>
+    <task id="LOCAL-00001" summary="Renaming class">
+      <created>1534853077535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534853077535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,6 +411,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Renaming class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -428,14 +453,33 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1534852969274" expanded="true" signature="146:425" ph="..." />
-              <marker date="1534852969274" expanded="true" signature="461:1310" ph="{...}" />
-              <marker date="1534852969274" expanded="true" signature="512:1308" ph="{...}" />
-              <marker date="1534852969274" expanded="true" signature="539:1303" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="570:623" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="669:790" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="831:1287" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="1207:1274" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+              <marker date="1534853145291" expanded="true" signature="213:219" ph="^0.0.2" />
+              <marker date="1534853145291" expanded="true" signature="244:523" ph="..." />
+              <marker date="1534853145291" expanded="true" signature="559:1408" ph="{...}" />
+              <marker date="1534853145291" expanded="true" signature="610:1406" ph="{...}" />
+              <marker date="1534853145291" expanded="true" signature="637:1401" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="668:721" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="678:713" ph="plugins: ..." />
+              <marker date="1534853145291" expanded="true" signature="688:711" ph="Firestore…erPlugin()" />
+              <marker date="1534853145291" expanded="true" signature="729:1394" ph="layers: [7 items]" />
+              <marker date="1534853145291" expanded="true" signature="767:888" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="794:846" ph="https://{…x}/{y}.png" />
+              <marker date="1534853145291" expanded="true" signature="860:888" ph="subdomains: ..." />
+              <marker date="1534853145291" expanded="true" signature="873:876" ph="a" />
+              <marker date="1534853145291" expanded="true" signature="878:881" ph="b" />
+              <marker date="1534853145291" expanded="true" signature="883:886" ph="c" />
+              <marker date="1534853145291" expanded="true" signature="929:1385" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="972:1029" ph="//connect…(document)" />
+              <marker date="1534853145291" expanded="true" signature="1042:1067" ph="GeoPoint …= document" />
+              <marker date="1534853145291" expanded="true" signature="1068:1078" ph="location" />
+              <marker date="1534853145291" expanded="true" signature="1079:1142" ph="; //use f…rn Marker(" />
+              <marker date="1534853145291" expanded="true" signature="1164:1168" ph="50.0" />
+              <marker date="1534853145291" expanded="true" signature="1192:1196" ph="50.0" />
+              <marker date="1534853145291" expanded="true" signature="1219:1240" ph="LatLng(po…t.latitude" />
+              <marker date="1534853145291" expanded="true" signature="1242:1258" ph="point.longitude)" />
+              <marker date="1534853145291" expanded="true" signature="1305:1372" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="1334:1351" ph="new FlutterLogo()" />
             </folding>
           </first_editor>
           <second_editor />
@@ -510,30 +554,68 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1534852969274" expanded="true" signature="146:425" ph="..." />
-            <marker date="1534852969274" expanded="true" signature="461:1310" ph="{...}" />
-            <marker date="1534852969274" expanded="true" signature="512:1308" ph="{...}" />
-            <marker date="1534852969274" expanded="true" signature="539:1303" ph="(...)" />
-            <marker date="1534852969274" expanded="true" signature="570:623" ph="(...)" />
-            <marker date="1534852969274" expanded="true" signature="669:790" ph="(...)" />
-            <marker date="1534852969274" expanded="true" signature="831:1287" ph="(...)" />
-            <marker date="1534852969274" expanded="true" signature="1207:1274" ph="(...)" />
+            <marker date="1534853145291" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+            <marker date="1534853145291" expanded="true" signature="213:219" ph="^0.0.2" />
+            <marker date="1534853145291" expanded="true" signature="244:523" ph="..." />
+            <marker date="1534853145291" expanded="true" signature="559:1408" ph="{...}" />
+            <marker date="1534853145291" expanded="true" signature="610:1406" ph="{...}" />
+            <marker date="1534853145291" expanded="true" signature="637:1401" ph="(...)" />
+            <marker date="1534853145291" expanded="true" signature="668:721" ph="(...)" />
+            <marker date="1534853145291" expanded="true" signature="678:713" ph="plugins: ..." />
+            <marker date="1534853145291" expanded="true" signature="688:711" ph="Firestore…erPlugin()" />
+            <marker date="1534853145291" expanded="true" signature="729:1394" ph="layers: [7 items]" />
+            <marker date="1534853145291" expanded="true" signature="767:888" ph="(...)" />
+            <marker date="1534853145291" expanded="true" signature="794:846" ph="https://{…x}/{y}.png" />
+            <marker date="1534853145291" expanded="true" signature="860:888" ph="subdomains: ..." />
+            <marker date="1534853145291" expanded="true" signature="873:876" ph="a" />
+            <marker date="1534853145291" expanded="true" signature="878:881" ph="b" />
+            <marker date="1534853145291" expanded="true" signature="883:886" ph="c" />
+            <marker date="1534853145291" expanded="true" signature="929:1385" ph="(...)" />
+            <marker date="1534853145291" expanded="true" signature="972:1029" ph="//connect…(document)" />
+            <marker date="1534853145291" expanded="true" signature="1042:1067" ph="GeoPoint …= document" />
+            <marker date="1534853145291" expanded="true" signature="1068:1078" ph="location" />
+            <marker date="1534853145291" expanded="true" signature="1079:1142" ph="; //use f…rn Marker(" />
+            <marker date="1534853145291" expanded="true" signature="1164:1168" ph="50.0" />
+            <marker date="1534853145291" expanded="true" signature="1192:1196" ph="50.0" />
+            <marker date="1534853145291" expanded="true" signature="1219:1240" ph="LatLng(po…t.latitude" />
+            <marker date="1534853145291" expanded="true" signature="1242:1258" ph="point.longitude)" />
+            <marker date="1534853145291" expanded="true" signature="1305:1372" ph="(...)" />
+            <marker date="1534853145291" expanded="true" signature="1334:1351" ph="new FlutterLogo()" />
           </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             <folding>
-              <marker date="1534852969274" expanded="true" signature="146:425" ph="..." />
-              <marker date="1534852969274" expanded="true" signature="461:1310" ph="{...}" />
-              <marker date="1534852969274" expanded="true" signature="512:1308" ph="{...}" />
-              <marker date="1534852969274" expanded="true" signature="539:1303" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="570:623" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="669:790" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="831:1287" ph="(...)" />
-              <marker date="1534852969274" expanded="true" signature="1207:1274" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+              <marker date="1534853145291" expanded="true" signature="213:219" ph="^0.0.2" />
+              <marker date="1534853145291" expanded="true" signature="244:523" ph="..." />
+              <marker date="1534853145291" expanded="true" signature="559:1408" ph="{...}" />
+              <marker date="1534853145291" expanded="true" signature="610:1406" ph="{...}" />
+              <marker date="1534853145291" expanded="true" signature="637:1401" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="668:721" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="678:713" ph="plugins: ..." />
+              <marker date="1534853145291" expanded="true" signature="688:711" ph="Firestore…erPlugin()" />
+              <marker date="1534853145291" expanded="true" signature="729:1394" ph="layers: [7 items]" />
+              <marker date="1534853145291" expanded="true" signature="767:888" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="794:846" ph="https://{…x}/{y}.png" />
+              <marker date="1534853145291" expanded="true" signature="860:888" ph="subdomains: ..." />
+              <marker date="1534853145291" expanded="true" signature="873:876" ph="a" />
+              <marker date="1534853145291" expanded="true" signature="878:881" ph="b" />
+              <marker date="1534853145291" expanded="true" signature="883:886" ph="c" />
+              <marker date="1534853145291" expanded="true" signature="929:1385" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="972:1029" ph="//connect…(document)" />
+              <marker date="1534853145291" expanded="true" signature="1042:1067" ph="GeoPoint …= document" />
+              <marker date="1534853145291" expanded="true" signature="1068:1078" ph="location" />
+              <marker date="1534853145291" expanded="true" signature="1079:1142" ph="; //use f…rn Marker(" />
+              <marker date="1534853145291" expanded="true" signature="1164:1168" ph="50.0" />
+              <marker date="1534853145291" expanded="true" signature="1192:1196" ph="50.0" />
+              <marker date="1534853145291" expanded="true" signature="1219:1240" ph="LatLng(po…t.latitude" />
+              <marker date="1534853145291" expanded="true" signature="1242:1258" ph="point.longitude)" />
+              <marker date="1534853145291" expanded="true" signature="1305:1372" ph="(...)" />
+              <marker date="1534853145291" expanded="true" signature="1334:1351" ph="new FlutterLogo()" />
             </folding>
           </first_editor>
           <second_editor />

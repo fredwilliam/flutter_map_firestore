@@ -2,6 +2,11 @@
 
 Firestore for Flutter Map Plugin: [flutter_map](https://github.com/apptreesoftware/flutter_map)
 
+Add flutter_map_firestore to your pubspec:
+
+```yaml
+dependencies:
+  flutter_map_firestore: ^0.0.2
 
 Usage:
 
