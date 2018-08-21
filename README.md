@@ -1,0 +1,49 @@
+# flutter_map_firestore
+
+Firestore for Flutter Map Plugin: [flutter_map](https://github.com/apptreesoftware/flutter_map)
+
+
+Usage:
+
+```dart
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter_map/flutter_map.dart';
+import 'package:latlong/latlong.dart';
+import 'package:flutter_map_firestore/FirebaseMarkerPlugin.dart';
+
+class Map extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return new FlutterMap(
+      options: new MapOptions(
+        plugins: [FirestoreMarkerPlugin()],
+        interactive: true,
+      ),
+      layers: [
+        new TileLayerOptions(
+            urlTemplate: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+            subdomains: ['a', 'b', 'c']),
+        new FirebaseMarkerLayerOptions(Firestore.instance.collection('markers'), //connect own firestore collection
+            (document) {
+          GeoPoint point = document["location"]; //use for example Firestore GeoPoint
+          return Marker(
+              width: 50.0,
+              height: 50.0,
+              point: LatLng(point.latitude, point.longitude),
+              builder: (ctx) => new Container(
+                    child: new FlutterLogo(),
+                  ));
+        }),
+      ],
+    );
+  }
+}
+```
+
+## Getting Started
+
+For help getting started with Flutter, view our online [documentation](https://flutter.io/).
+
+For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
