@@ -1,14 +1,14 @@
 name: flutter_map_firestore
 description: Firestore for Flutter Map
-version: 0.0.2
+version: 0.0.3
 author: Rafał Dziuryk <rafal.dziuryk@appvinio.com>
 homepage: https://github.com/appvinio/flutter_map_firestore
 
 environment:
-    sdk: ">=1.19.0 <2.0.0"
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  cloud_firestore: ^0.7.3
-  flutter_map: ^0.0.1
+  cloud_firestore: ^0.8.2+1
+  flutter_map: ^0.1.4

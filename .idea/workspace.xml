@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ada3c51-1721-4049-a066-ca806d5f0f76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" afterPath="$PROJECT_DIR$/.flutter-plugins" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/android/local.properties" afterPath="$PROJECT_DIR$/android/local.properties" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -20,7 +26,7 @@
       <file leaf-file-name="flutter_map_firestore.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/flutter_map_firestore.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="567">
               <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
               <folding>
                 <element signature="e#32#86#0" expanded="true" />
@@ -33,46 +39,46 @@
         <entry file="file://$PROJECT_DIR$/pubspec.lock">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="23" />
+              <first_editor relative-caret-position="345">
+                <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
                 <folding>
-                  <marker date="1534853181808" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
-                  <marker date="1534853181808" expanded="true" signature="213:219" ph="^0.0.2" />
-                  <marker date="1534853181808" expanded="true" signature="246:525" ph="..." />
-                  <marker date="1534853181808" expanded="true" signature="561:1410" ph="{...}" />
-                  <marker date="1534853181808" expanded="true" signature="612:1408" ph="{...}" />
-                  <marker date="1534853181808" expanded="true" signature="639:1403" ph="(...)" />
-                  <marker date="1534853181808" expanded="true" signature="670:723" ph="(...)" />
-                  <marker date="1534853181808" expanded="true" signature="680:715" ph="plugins: ..." />
-                  <marker date="1534853181808" expanded="true" signature="690:713" ph="Firestore…erPlugin()" />
-                  <marker date="1534853181808" expanded="true" signature="731:1396" ph="layers: [7 items]" />
-                  <marker date="1534853181808" expanded="true" signature="769:890" ph="(...)" />
-                  <marker date="1534853181808" expanded="true" signature="796:848" ph="https://{…x}/{y}.png" />
-                  <marker date="1534853181808" expanded="true" signature="862:890" ph="subdomains: ..." />
-                  <marker date="1534853181808" expanded="true" signature="875:878" ph="a" />
-                  <marker date="1534853181808" expanded="true" signature="880:883" ph="b" />
-                  <marker date="1534853181808" expanded="true" signature="885:888" ph="c" />
-                  <marker date="1534853181808" expanded="true" signature="931:1387" ph="(...)" />
-                  <marker date="1534853181808" expanded="true" signature="974:1031" ph="//connect…(document)" />
-                  <marker date="1534853181808" expanded="true" signature="1044:1069" ph="GeoPoint …= document" />
-                  <marker date="1534853181808" expanded="true" signature="1070:1080" ph="location" />
-                  <marker date="1534853181808" expanded="true" signature="1081:1144" ph="; //use f…rn Marker(" />
-                  <marker date="1534853181808" expanded="true" signature="1166:1170" ph="50.0" />
-                  <marker date="1534853181808" expanded="true" signature="1194:1198" ph="50.0" />
-                  <marker date="1534853181808" expanded="true" signature="1221:1242" ph="LatLng(po…t.latitude" />
-                  <marker date="1534853181808" expanded="true" signature="1244:1260" ph="point.longitude)" />
-                  <marker date="1534853181808" expanded="true" signature="1307:1374" ph="(...)" />
-                  <marker date="1534853181808" expanded="true" signature="1336:1353" ph="new FlutterLogo()" />
+                  <marker date="1534853358489" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+                  <marker date="1534853358489" expanded="true" signature="213:219" ph="^0.0.2" />
+                  <marker date="1534853358489" expanded="true" signature="250:529" ph="..." />
+                  <marker date="1534853358489" expanded="true" signature="565:1414" ph="{...}" />
+                  <marker date="1534853358489" expanded="true" signature="616:1412" ph="{...}" />
+                  <marker date="1534853358489" expanded="true" signature="643:1407" ph="(...)" />
+                  <marker date="1534853358489" expanded="true" signature="674:727" ph="(...)" />
+                  <marker date="1534853358489" expanded="true" signature="684:719" ph="plugins: ..." />
+                  <marker date="1534853358489" expanded="true" signature="694:717" ph="Firestore…erPlugin()" />
+                  <marker date="1534853358489" expanded="true" signature="735:1400" ph="layers: [7 items]" />
+                  <marker date="1534853358489" expanded="true" signature="773:894" ph="(...)" />
+                  <marker date="1534853358489" expanded="true" signature="800:852" ph="https://{…x}/{y}.png" />
+                  <marker date="1534853358489" expanded="true" signature="866:894" ph="subdomains: ..." />
+                  <marker date="1534853358489" expanded="true" signature="879:882" ph="a" />
+                  <marker date="1534853358489" expanded="true" signature="884:887" ph="b" />
+                  <marker date="1534853358489" expanded="true" signature="889:892" ph="c" />
+                  <marker date="1534853358489" expanded="true" signature="935:1391" ph="(...)" />
+                  <marker date="1534853358489" expanded="true" signature="978:1035" ph="//connect…(document)" />
+                  <marker date="1534853358489" expanded="true" signature="1048:1073" ph="GeoPoint …= document" />
+                  <marker date="1534853358489" expanded="true" signature="1074:1084" ph="location" />
+                  <marker date="1534853358489" expanded="true" signature="1085:1148" ph="; //use f…rn Marker(" />
+                  <marker date="1534853358489" expanded="true" signature="1170:1174" ph="50.0" />
+                  <marker date="1534853358489" expanded="true" signature="1198:1202" ph="50.0" />
+                  <marker date="1534853358489" expanded="true" signature="1225:1246" ph="LatLng(po…t.latitude" />
+                  <marker date="1534853358489" expanded="true" signature="1248:1264" ph="point.longitude)" />
+                  <marker date="1534853358489" expanded="true" signature="1311:1378" ph="(...)" />
+                  <marker date="1534853358489" expanded="true" signature="1340:1357" ph="new FlutterLogo()" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -80,12 +86,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -96,8 +102,8 @@
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="195">
+              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -122,18 +128,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test/flutter_map_firestore_test.dart" />
-        <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/flutter_map_firestore.dart" />
-        <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="693" />
-    <option name="y" value="344" />
-    <option name="width" value="1368" />
-    <option name="height" value="748" />
+    <option name="x" value="1363" />
+    <option name="width" value="1926" />
+    <option name="height" value="1083" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -152,86 +157,15 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_map_firestore" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flutter_map_firestore" type="b2602c69:ProjectViewProjectNode" />
@@ -243,8 +177,6 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,21 +310,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1363" y="0" width="1926" height="1083" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831" sideWeight="0.4914621" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831" sideWeight="0.48932764" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.51067233" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.5149413" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.48932764" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.49252936" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.4850587" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25827107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26520813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -421,6 +354,100 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/flutter_map_firestore.dart">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding>
+            <element signature="e#32#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <folding>
+              <marker date="1534853358489" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+              <marker date="1534853358489" expanded="true" signature="213:219" ph="^0.0.2" />
+              <marker date="1534853358489" expanded="true" signature="250:529" ph="..." />
+              <marker date="1534853358489" expanded="true" signature="565:1414" ph="{...}" />
+              <marker date="1534853358489" expanded="true" signature="616:1412" ph="{...}" />
+              <marker date="1534853358489" expanded="true" signature="643:1407" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="674:727" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="684:719" ph="plugins: ..." />
+              <marker date="1534853358489" expanded="true" signature="694:717" ph="Firestore…erPlugin()" />
+              <marker date="1534853358489" expanded="true" signature="735:1400" ph="layers: [7 items]" />
+              <marker date="1534853358489" expanded="true" signature="773:894" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="800:852" ph="https://{…x}/{y}.png" />
+              <marker date="1534853358489" expanded="true" signature="866:894" ph="subdomains: ..." />
+              <marker date="1534853358489" expanded="true" signature="879:882" ph="a" />
+              <marker date="1534853358489" expanded="true" signature="884:887" ph="b" />
+              <marker date="1534853358489" expanded="true" signature="889:892" ph="c" />
+              <marker date="1534853358489" expanded="true" signature="935:1391" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="978:1035" ph="//connect…(document)" />
+              <marker date="1534853358489" expanded="true" signature="1048:1073" ph="GeoPoint …= document" />
+              <marker date="1534853358489" expanded="true" signature="1074:1084" ph="location" />
+              <marker date="1534853358489" expanded="true" signature="1085:1148" ph="; //use f…rn Marker(" />
+              <marker date="1534853358489" expanded="true" signature="1170:1174" ph="50.0" />
+              <marker date="1534853358489" expanded="true" signature="1198:1202" ph="50.0" />
+              <marker date="1534853358489" expanded="true" signature="1225:1246" ph="LatLng(po…t.latitude" />
+              <marker date="1534853358489" expanded="true" signature="1248:1264" ph="point.longitude)" />
+              <marker date="1534853358489" expanded="true" signature="1311:1378" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="1340:1357" ph="new FlutterLogo()" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flutter_map_firestore.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#32#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flutter_map_firestore.dart">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
@@ -429,14 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/flutter_map_firestore_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/flutter_map_firestore_test.dart" />
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -451,33 +471,33 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1534853181808" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
-              <marker date="1534853181808" expanded="true" signature="213:219" ph="^0.0.2" />
-              <marker date="1534853181808" expanded="true" signature="246:525" ph="..." />
-              <marker date="1534853181808" expanded="true" signature="561:1410" ph="{...}" />
-              <marker date="1534853181808" expanded="true" signature="612:1408" ph="{...}" />
-              <marker date="1534853181808" expanded="true" signature="639:1403" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="670:723" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="680:715" ph="plugins: ..." />
-              <marker date="1534853181808" expanded="true" signature="690:713" ph="Firestore…erPlugin()" />
-              <marker date="1534853181808" expanded="true" signature="731:1396" ph="layers: [7 items]" />
-              <marker date="1534853181808" expanded="true" signature="769:890" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="796:848" ph="https://{…x}/{y}.png" />
-              <marker date="1534853181808" expanded="true" signature="862:890" ph="subdomains: ..." />
-              <marker date="1534853181808" expanded="true" signature="875:878" ph="a" />
-              <marker date="1534853181808" expanded="true" signature="880:883" ph="b" />
-              <marker date="1534853181808" expanded="true" signature="885:888" ph="c" />
-              <marker date="1534853181808" expanded="true" signature="931:1387" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="974:1031" ph="//connect…(document)" />
-              <marker date="1534853181808" expanded="true" signature="1044:1069" ph="GeoPoint …= document" />
-              <marker date="1534853181808" expanded="true" signature="1070:1080" ph="location" />
-              <marker date="1534853181808" expanded="true" signature="1081:1144" ph="; //use f…rn Marker(" />
-              <marker date="1534853181808" expanded="true" signature="1166:1170" ph="50.0" />
-              <marker date="1534853181808" expanded="true" signature="1194:1198" ph="50.0" />
-              <marker date="1534853181808" expanded="true" signature="1221:1242" ph="LatLng(po…t.latitude" />
-              <marker date="1534853181808" expanded="true" signature="1244:1260" ph="point.longitude)" />
-              <marker date="1534853181808" expanded="true" signature="1307:1374" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="1336:1353" ph="new FlutterLogo()" />
+              <marker date="1534853358489" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+              <marker date="1534853358489" expanded="true" signature="213:219" ph="^0.0.2" />
+              <marker date="1534853358489" expanded="true" signature="250:529" ph="..." />
+              <marker date="1534853358489" expanded="true" signature="565:1414" ph="{...}" />
+              <marker date="1534853358489" expanded="true" signature="616:1412" ph="{...}" />
+              <marker date="1534853358489" expanded="true" signature="643:1407" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="674:727" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="684:719" ph="plugins: ..." />
+              <marker date="1534853358489" expanded="true" signature="694:717" ph="Firestore…erPlugin()" />
+              <marker date="1534853358489" expanded="true" signature="735:1400" ph="layers: [7 items]" />
+              <marker date="1534853358489" expanded="true" signature="773:894" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="800:852" ph="https://{…x}/{y}.png" />
+              <marker date="1534853358489" expanded="true" signature="866:894" ph="subdomains: ..." />
+              <marker date="1534853358489" expanded="true" signature="879:882" ph="a" />
+              <marker date="1534853358489" expanded="true" signature="884:887" ph="b" />
+              <marker date="1534853358489" expanded="true" signature="889:892" ph="c" />
+              <marker date="1534853358489" expanded="true" signature="935:1391" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="978:1035" ph="//connect…(document)" />
+              <marker date="1534853358489" expanded="true" signature="1048:1073" ph="GeoPoint …= document" />
+              <marker date="1534853358489" expanded="true" signature="1074:1084" ph="location" />
+              <marker date="1534853358489" expanded="true" signature="1085:1148" ph="; //use f…rn Marker(" />
+              <marker date="1534853358489" expanded="true" signature="1170:1174" ph="50.0" />
+              <marker date="1534853358489" expanded="true" signature="1198:1202" ph="50.0" />
+              <marker date="1534853358489" expanded="true" signature="1225:1246" ph="LatLng(po…t.latitude" />
+              <marker date="1534853358489" expanded="true" signature="1248:1264" ph="point.longitude)" />
+              <marker date="1534853358489" expanded="true" signature="1311:1378" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="1340:1357" ph="new FlutterLogo()" />
             </folding>
           </first_editor>
           <second_editor />
@@ -502,36 +522,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/flutter_map_firestore_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.lock">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/test/flutter_map_firestore_test.dart" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1534853358489" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+            <marker date="1534853358489" expanded="true" signature="213:219" ph="^0.0.2" />
+            <marker date="1534853358489" expanded="true" signature="250:529" ph="..." />
+            <marker date="1534853358489" expanded="true" signature="565:1414" ph="{...}" />
+            <marker date="1534853358489" expanded="true" signature="616:1412" ph="{...}" />
+            <marker date="1534853358489" expanded="true" signature="643:1407" ph="(...)" />
+            <marker date="1534853358489" expanded="true" signature="674:727" ph="(...)" />
+            <marker date="1534853358489" expanded="true" signature="684:719" ph="plugins: ..." />
+            <marker date="1534853358489" expanded="true" signature="694:717" ph="Firestore…erPlugin()" />
+            <marker date="1534853358489" expanded="true" signature="735:1400" ph="layers: [7 items]" />
+            <marker date="1534853358489" expanded="true" signature="773:894" ph="(...)" />
+            <marker date="1534853358489" expanded="true" signature="800:852" ph="https://{…x}/{y}.png" />
+            <marker date="1534853358489" expanded="true" signature="866:894" ph="subdomains: ..." />
+            <marker date="1534853358489" expanded="true" signature="879:882" ph="a" />
+            <marker date="1534853358489" expanded="true" signature="884:887" ph="b" />
+            <marker date="1534853358489" expanded="true" signature="889:892" ph="c" />
+            <marker date="1534853358489" expanded="true" signature="935:1391" ph="(...)" />
+            <marker date="1534853358489" expanded="true" signature="978:1035" ph="//connect…(document)" />
+            <marker date="1534853358489" expanded="true" signature="1048:1073" ph="GeoPoint …= document" />
+            <marker date="1534853358489" expanded="true" signature="1074:1084" ph="location" />
+            <marker date="1534853358489" expanded="true" signature="1085:1148" ph="; //use f…rn Marker(" />
+            <marker date="1534853358489" expanded="true" signature="1170:1174" ph="50.0" />
+            <marker date="1534853358489" expanded="true" signature="1198:1202" ph="50.0" />
+            <marker date="1534853358489" expanded="true" signature="1225:1246" ph="LatLng(po…t.latitude" />
+            <marker date="1534853358489" expanded="true" signature="1248:1264" ph="point.longitude)" />
+            <marker date="1534853358489" expanded="true" signature="1311:1378" ph="(...)" />
+            <marker date="1534853358489" expanded="true" signature="1340:1357" ph="new FlutterLogo()" />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            <folding />
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <folding>
+              <marker date="1534853358489" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
+              <marker date="1534853358489" expanded="true" signature="213:219" ph="^0.0.2" />
+              <marker date="1534853358489" expanded="true" signature="250:529" ph="..." />
+              <marker date="1534853358489" expanded="true" signature="565:1414" ph="{...}" />
+              <marker date="1534853358489" expanded="true" signature="616:1412" ph="{...}" />
+              <marker date="1534853358489" expanded="true" signature="643:1407" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="674:727" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="684:719" ph="plugins: ..." />
+              <marker date="1534853358489" expanded="true" signature="694:717" ph="Firestore…erPlugin()" />
+              <marker date="1534853358489" expanded="true" signature="735:1400" ph="layers: [7 items]" />
+              <marker date="1534853358489" expanded="true" signature="773:894" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="800:852" ph="https://{…x}/{y}.png" />
+              <marker date="1534853358489" expanded="true" signature="866:894" ph="subdomains: ..." />
+              <marker date="1534853358489" expanded="true" signature="879:882" ph="a" />
+              <marker date="1534853358489" expanded="true" signature="884:887" ph="b" />
+              <marker date="1534853358489" expanded="true" signature="889:892" ph="c" />
+              <marker date="1534853358489" expanded="true" signature="935:1391" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="978:1035" ph="//connect…(document)" />
+              <marker date="1534853358489" expanded="true" signature="1048:1073" ph="GeoPoint …= document" />
+              <marker date="1534853358489" expanded="true" signature="1074:1084" ph="location" />
+              <marker date="1534853358489" expanded="true" signature="1085:1148" ph="; //use f…rn Marker(" />
+              <marker date="1534853358489" expanded="true" signature="1170:1174" ph="50.0" />
+              <marker date="1534853358489" expanded="true" signature="1198:1202" ph="50.0" />
+              <marker date="1534853358489" expanded="true" signature="1225:1246" ph="LatLng(po…t.latitude" />
+              <marker date="1534853358489" expanded="true" signature="1248:1264" ph="point.longitude)" />
+              <marker date="1534853358489" expanded="true" signature="1311:1378" ph="(...)" />
+              <marker date="1534853358489" expanded="true" signature="1340:1357" ph="new FlutterLogo()" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -539,7 +598,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/flutter_map_firestore.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="567">
           <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
           <folding>
             <element signature="e#32#86#0" expanded="true" />
@@ -547,74 +606,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1534853181808" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
-            <marker date="1534853181808" expanded="true" signature="213:219" ph="^0.0.2" />
-            <marker date="1534853181808" expanded="true" signature="246:525" ph="..." />
-            <marker date="1534853181808" expanded="true" signature="561:1410" ph="{...}" />
-            <marker date="1534853181808" expanded="true" signature="612:1408" ph="{...}" />
-            <marker date="1534853181808" expanded="true" signature="639:1403" ph="(...)" />
-            <marker date="1534853181808" expanded="true" signature="670:723" ph="(...)" />
-            <marker date="1534853181808" expanded="true" signature="680:715" ph="plugins: ..." />
-            <marker date="1534853181808" expanded="true" signature="690:713" ph="Firestore…erPlugin()" />
-            <marker date="1534853181808" expanded="true" signature="731:1396" ph="layers: [7 items]" />
-            <marker date="1534853181808" expanded="true" signature="769:890" ph="(...)" />
-            <marker date="1534853181808" expanded="true" signature="796:848" ph="https://{…x}/{y}.png" />
-            <marker date="1534853181808" expanded="true" signature="862:890" ph="subdomains: ..." />
-            <marker date="1534853181808" expanded="true" signature="875:878" ph="a" />
-            <marker date="1534853181808" expanded="true" signature="880:883" ph="b" />
-            <marker date="1534853181808" expanded="true" signature="885:888" ph="c" />
-            <marker date="1534853181808" expanded="true" signature="931:1387" ph="(...)" />
-            <marker date="1534853181808" expanded="true" signature="974:1031" ph="//connect…(document)" />
-            <marker date="1534853181808" expanded="true" signature="1044:1069" ph="GeoPoint …= document" />
-            <marker date="1534853181808" expanded="true" signature="1070:1080" ph="location" />
-            <marker date="1534853181808" expanded="true" signature="1081:1144" ph="; //use f…rn Marker(" />
-            <marker date="1534853181808" expanded="true" signature="1166:1170" ph="50.0" />
-            <marker date="1534853181808" expanded="true" signature="1194:1198" ph="50.0" />
-            <marker date="1534853181808" expanded="true" signature="1221:1242" ph="LatLng(po…t.latitude" />
-            <marker date="1534853181808" expanded="true" signature="1244:1260" ph="point.longitude)" />
-            <marker date="1534853181808" expanded="true" signature="1307:1374" ph="(...)" />
-            <marker date="1534853181808" expanded="true" signature="1336:1353" ph="new FlutterLogo()" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="23" />
-            <folding>
-              <marker date="1534853181808" expanded="true" signature="174:219" ph="dependencies: &lt;1 key&gt;" />
-              <marker date="1534853181808" expanded="true" signature="213:219" ph="^0.0.2" />
-              <marker date="1534853181808" expanded="true" signature="246:525" ph="..." />
-              <marker date="1534853181808" expanded="true" signature="561:1410" ph="{...}" />
-              <marker date="1534853181808" expanded="true" signature="612:1408" ph="{...}" />
-              <marker date="1534853181808" expanded="true" signature="639:1403" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="670:723" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="680:715" ph="plugins: ..." />
-              <marker date="1534853181808" expanded="true" signature="690:713" ph="Firestore…erPlugin()" />
-              <marker date="1534853181808" expanded="true" signature="731:1396" ph="layers: [7 items]" />
-              <marker date="1534853181808" expanded="true" signature="769:890" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="796:848" ph="https://{…x}/{y}.png" />
-              <marker date="1534853181808" expanded="true" signature="862:890" ph="subdomains: ..." />
-              <marker date="1534853181808" expanded="true" signature="875:878" ph="a" />
-              <marker date="1534853181808" expanded="true" signature="880:883" ph="b" />
-              <marker date="1534853181808" expanded="true" signature="885:888" ph="c" />
-              <marker date="1534853181808" expanded="true" signature="931:1387" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="974:1031" ph="//connect…(document)" />
-              <marker date="1534853181808" expanded="true" signature="1044:1069" ph="GeoPoint …= document" />
-              <marker date="1534853181808" expanded="true" signature="1070:1080" ph="location" />
-              <marker date="1534853181808" expanded="true" signature="1081:1144" ph="; //use f…rn Marker(" />
-              <marker date="1534853181808" expanded="true" signature="1166:1170" ph="50.0" />
-              <marker date="1534853181808" expanded="true" signature="1194:1198" ph="50.0" />
-              <marker date="1534853181808" expanded="true" signature="1221:1242" ph="LatLng(po…t.latitude" />
-              <marker date="1534853181808" expanded="true" signature="1244:1260" ph="point.longitude)" />
-              <marker date="1534853181808" expanded="true" signature="1307:1374" ph="(...)" />
-              <marker date="1534853181808" expanded="true" signature="1336:1353" ph="new FlutterLogo()" />
-            </folding>
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
